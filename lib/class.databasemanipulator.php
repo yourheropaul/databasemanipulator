@@ -4,7 +4,6 @@
  * 
  * Created on Feb 11, 2009
  *
- * FIXME: use the ASDC class!
  */
  
  if(!defined('__IN_SYMPHONY__')) die('<h2>Error</h2><p>You cannot directly access this file</p>');
